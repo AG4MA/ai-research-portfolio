@@ -1,0 +1,10 @@
+# Independent project repositories linked from this portfolio
+/AI Systems and HPC/exact-vector-search/
+/AI Systems and HPC/physical-signal-anomaly-detection/
+
+# Local credentials and operating system files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
