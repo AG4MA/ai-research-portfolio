@@ -20,7 +20,7 @@ Public personal projects exploring AI, model interpretability, systems programmi
 | [Exact Vector Search](https://github.com/AG4MA/exact-vector-search) | AI Systems and HPC | Project definition published |
 | [Physical Signal Anomaly Detection](https://github.com/AG4MA/physical-signal-anomaly-detection) | AI Systems and HPC | Project definition published |
 
-Entity Tracking Circuits studies how GPT-2 Small identifies the recipient in a sentence, using causal interventions and planned tests across names, templates, and distractors.
+Entity Tracking Circuits will implement a small Transformer from scratch, train it on DGX Spark, run inference, and investigate how entity tracking mechanisms emerge across training checkpoints.
 
 Exact Vector Search is a standalone exploration of exhaustive nearest neighbor search with a Rust CPU baseline and a planned PTX GPU implementation.
 
