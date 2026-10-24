@@ -19,12 +19,15 @@ Public personal projects exploring AI, model interpretability, systems programmi
 | [Entity Tracking Circuits](https://github.com/AG4MA/entity-tracking-circuits) | Interpretability / Mechanistic Interpretability | Project definition published |
 | [Exact Vector Search](https://github.com/AG4MA/exact-vector-search) | AI Systems and HPC | Project definition published |
 | [Physical Signal Anomaly Detection](https://github.com/AG4MA/physical-signal-anomaly-detection) | AI Systems and HPC | Project definition published |
+| [Improving LLM Performance on GPUs Through Kernel Optimization](https://github.com/AG4MA/llm-gpu-kernel-optimization) | AI Systems and HPC | Project definition published |
 
 Entity Tracking Circuits will implement a small Transformer from scratch, train it on DGX Spark, run inference, and investigate how entity tracking mechanisms emerge across training checkpoints.
 
 Exact Vector Search is a standalone exploration of exhaustive nearest neighbor search with a Rust CPU baseline and a planned PTX GPU implementation.
 
 Physical Signal Anomaly Detection connects physical recordings, model evaluation, interpretability experiments, and a possible Rust and PTX performance study.
+
+Improving LLM Performance on GPUs Through Kernel Optimization will profile an LLM inference workload, optimize one measured GPU bottleneck, and evaluate its effect on total inference performance. Rust is a candidate for the host implementation.
 
 ## How this portfolio is organized
 
