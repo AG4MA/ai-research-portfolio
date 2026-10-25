@@ -11,6 +11,7 @@ Public personal projects exploring AI, model interpretability, systems programmi
 | [Interpretability](Interpretability/) | Understand and test how models work. [Mechanistic Interpretability](<Interpretability/Mechanistic Interpretability/>) is the first dedicated subfolder. |
 | [AI Systems and HPC](<AI Systems and HPC/>) | Build useful tools with Rust, GPU computing, PTX, SASS analysis, and measured performance. |
 | [Datasets](Datasets/) | Create, clean, annotate, and document datasets, including physical measurements. |
+| [Education](Education/) | Explain AI and machine learning through interactive visual lessons. |
 
 ## Projects
 
@@ -21,6 +22,7 @@ Public personal projects exploring AI, model interpretability, systems programmi
 | [Exact Vector Search](https://github.com/AG4MA/exact-vector-search) | AI Systems and HPC | Project definition published |
 | [Physical Signal Anomaly Detection](https://github.com/AG4MA/physical-signal-anomaly-detection) | AI Systems and HPC | Project definition published |
 | [Improving LLM Performance on GPUs Through Kernel Optimization](https://github.com/AG4MA/llm-gpu-kernel-optimization) | AI Systems and HPC | Project definition published |
+| [Interactive AI and Machine Learning](Education/interactive-ai-and-ml/) | Education | Idea saved for future development |
 
 Entity Tracking Circuits will implement a small Transformer from scratch, train it on DGX Spark, run inference, and investigate how entity tracking mechanisms emerge across training checkpoints.
 
@@ -34,7 +36,7 @@ Improving LLM Performance on GPUs Through Kernel Optimization will profile an LL
 
 ## How this portfolio is organized
 
-The three research areas are containers. Each implemented project has its own public repository, documentation, and history. This index links to those repositories instead of duplicating their files.
+The areas are containers. Each implemented project has its own public repository, documentation, and history. This index links to those repositories instead of duplicating their files. Future project ideas can begin as briefs inside their container.
 
 Empty folders use a `.gitkeep` placeholder so that their structure is visible on GitHub. These placeholders are not implementations.
 
