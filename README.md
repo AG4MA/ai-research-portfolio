@@ -1,6 +1,6 @@
 # AI Research Portfolio
 
-Public personal projects exploring AI, model interpretability, systems programming, high performance computing, and datasets from the physical world.
+Public personal projects exploring AI, model interpretability, systems programming, high performance computing, datasets from the physical world, and practical radio electronics.
 
 **Current status:** the portfolio structure and initial project briefs are published. Implementations, datasets, and experimental results will be added as the work progresses. This repository is an index and a set of containers for independent projects.
 
@@ -12,6 +12,7 @@ Public personal projects exploring AI, model interpretability, systems programmi
 | [AI Systems and HPC](<AI Systems and HPC/>) | Build useful tools with Rust, GPU computing, PTX, SASS analysis, and measured performance. |
 | [Datasets](Datasets/) | Create, clean, annotate, and document datasets, including physical measurements. |
 | [Education](Education/) | Explain AI and machine learning through interactive visual lessons. |
+| [Radio and Electronics](<Radio and Electronics/>) | Build and measure radio equipment, antennas, electronics and station controls. |
 
 ## Projects
 
@@ -23,6 +24,7 @@ Public personal projects exploring AI, model interpretability, systems programmi
 | [Physical Signal Anomaly Detection](https://github.com/AG4MA/physical-signal-anomaly-detection) | AI Systems and HPC | Project definition published |
 | [Improving LLM Performance on GPUs Through Kernel Optimization](https://github.com/AG4MA/llm-gpu-kernel-optimization) | AI Systems and HPC | Project definition published |
 | [Interactive AI and Machine Learning](Education/interactive-ai-and-ml/) | Education | Idea saved for future development |
+| [Desktop Radio Lab](https://github.com/AG4MA/desktop-radio-lab) | Radio and Electronics | Project definition and build roadmap |
 
 Entity Tracking Circuits will implement a small Transformer from scratch, train it on DGX Spark, run inference, and investigate how entity tracking mechanisms emerge across training checkpoints.
 
@@ -33,6 +35,8 @@ Exact Vector Search is a standalone exploration of exhaustive nearest neighbor s
 Physical Signal Anomaly Detection connects physical recordings, model evaluation, interpretability experiments, and a possible Rust and PTX performance study.
 
 Improving LLM Performance on GPUs Through Kernel Optimization will profile an LLM inference workload, optimize one measured GPU bottleneck, and evaluate its effect on total inference performance. Rust is a candidate for the host implementation.
+
+Desktop Radio Lab will build a desktop amateur radio station step by step, combining purchased equipment with original antennas, electronics and software, progressing from first reception to authorized contacts.
 
 ## How this portfolio is organized
 
