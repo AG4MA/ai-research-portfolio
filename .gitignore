@@ -3,6 +3,7 @@
 /AI Systems and HPC/physical-signal-anomaly-detection/
 /AI Systems and HPC/llm-gpu-kernel-optimization/
 /Interpretability/Mechanistic Interpretability/entity-tracking-circuits/
+/Interpretability/Mechanistic Interpretability/qwen-behavior-lab/
 
 # Local credentials and operating system files
 .env
