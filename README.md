@@ -23,6 +23,8 @@ Public personal projects exploring AI, model interpretability, systems programmi
 | [Exact Vector Search](https://github.com/AG4MA/exact-vector-search) | AI Systems and HPC | Project definition published |
 | [Physical Signal Anomaly Detection](https://github.com/AG4MA/physical-signal-anomaly-detection) | AI Systems and HPC | Project definition published |
 | [Improving LLM Performance on GPUs Through Kernel Optimization](https://github.com/AG4MA/llm-gpu-kernel-optimization) | AI Systems and HPC | Project definition published |
+| [Open GPU Computing in Rust](<AI Systems and HPC/open-gpu-computing-in-rust/>) | AI Systems and HPC | Planned open source contribution |
+| [Open Ascend Backend in Rust](<AI Systems and HPC/open-ascend-backend-in-rust/>) | AI Systems and HPC | Project brief; hardware validation pending |
 | [Interactive AI and Machine Learning](Education/interactive-ai-and-ml/) | Education | Idea saved for future development |
 | [Desktop Radio Lab](https://github.com/AG4MA/desktop-radio-lab) | Radio and Electronics | Project definition and build roadmap |
 
